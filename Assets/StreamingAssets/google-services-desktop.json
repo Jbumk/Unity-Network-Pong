@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "500746924319",
+    "project_id": "pongnettest",
+    "storage_bucket": "pongnettest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500746924319:android:0b50311df438256292402a",
+        "android_client_info": {
+          "package_name": "com.JBumk.PongNetTest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500746924319-fjj0jme60ggf0cfks9efhuer0p8idgt0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.JBumk.PongNetTest",
+            "certificate_hash": "e5789c103ba85aa66740cfbea699eedf4830a478"
+          }
+        },
+        {
+          "client_id": "500746924319-sosrcekbicnm9bjbim3kie14b09rt5kb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG3cVc7Az1IXUYdXGmlfNmJ0avZnmY3hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500746924319-sosrcekbicnm9bjbim3kie14b09rt5kb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
